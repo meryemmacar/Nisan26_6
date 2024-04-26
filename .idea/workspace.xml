@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff6a59a8-d122-4146-af9d-77407c6a4012" name="Changes" comment="" />
+    <list default="true" id="ff6a59a8-d122-4146-af9d-77407c6a4012" name="Changes" comment="2">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,25 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +54,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,6 +69,35 @@
       <option name="presentableId" value="Default" />
       <updated>1714140593203</updated>
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <option name="closed" value="true" />
+      <created>1714140973717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714140973717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1714141431371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714141431371</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2">
+      <option name="closed" value="true" />
+      <created>1714141491807</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714141491807</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
 </project>
